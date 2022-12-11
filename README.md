@@ -5,7 +5,7 @@
 ## Videos:
 * https://drive.google.com/drive/folders/1pubk2bQdOmgadT8gaKloPnw-NygNlsvy
 
-## My LinkedIn
+## My LinkedIn:
 * https://www.linkedin.com/in/mohamed-gamal-283a8423b
 
 *******
