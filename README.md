@@ -1,9 +1,10 @@
 # Real-Time-Operating-System
 
 # Task_1
+* UART communication simulation using QEMU Emulator - (lm3s6965evb)
 
-## Videos:
-* https://drive.google.com/drive/folders/1pubk2bQdOmgadT8gaKloPnw-NygNlsvy
+# Task_1
+* Snake Game Using FreeRTOS and Qemu Emulator - (lm3s6965evb)
 
 ## My LinkedIn:
 * https://www.linkedin.com/in/mohamed-gamal-283a8423b
