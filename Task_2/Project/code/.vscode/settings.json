@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "cpu.h": "c",
+        "uart.h": "c",
+        "debug.h": "c",
+        "hardware.h": "c",
+        "serial.h": "c",
+        "freertos.h": "c",
+        "mcu_device_header.h": "c"
+    }
+}
